@@ -64,3 +64,35 @@ h2 {
     display: block;
     margin-top: 10px;
 }
+.Links_Bottom2 {
+    list-style: none;
+    margin: 10px 15px;
+    padding: 0px 0px;
+    border: 5px solid whitesmoke;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px rgb(0, 0, 0);
+}
+.Links_Bottom2 li {
+    background-color: whitesmoke;
+    padding: 10px 20px;
+    border: 0px;
+    border-radius: 15px;
+}
+.Links_Bottom2 li a {
+    color:  rgb(0, 0, 0);
+    background: whitesmoke;
+    font-weight: bolder;
+    font-size: larger;
+    text-decoration: none;
+}
+.Links_Bottom2 li a span {
+    color: grey;
+    display: block;
+    margin-top: 10px;
+}
+.Rodapé {
+    color: rgb(73, 5, 88);
+    margin: 10px;
+    text-align: right;
+    list-style: none
+}
